@@ -1,0 +1,2 @@
+body{font-family:sans-serif}#app{position:relative}#ball{width:20px;height:20px;background-color:red;position:fixed;top:20px;left:52.5%;border-radius:50%;animation:changeColorBall 1s infinite alternate}@keyframes changeColorBall{0%{background-color:#5b1010}50%{background-color:#f73e3e}to{background-color:#a50b0b}}#rod1,#rod2{width:200px;height:20px;position:fixed;left:50%;border-radius:25px;text-align:center;color:#fff;font-weight:700}#rod1{background-color:#00f;top:0}#rod2{background-color:#8a2be2;bottom:0}
+/*# sourceMappingURL=/csb-q4oqnr/styles.b34979c0.css.map */
